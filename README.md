@@ -131,6 +131,10 @@ RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR:
 ![image](https://user-images.githubusercontent.com/93835463/149449786-40c64f6a-9664-47c2-be8c-470e65278c44.png)
 ![image](https://user-images.githubusercontent.com/93835463/149449797-69f98658-42c3-4cd0-81aa-eb6d38e0e06d.png)
 
+Tabla
+
+![image](https://user-images.githubusercontent.com/93835463/149453684-b32be6c7-1292-438d-8368-eaa0e806c8ab.png)
+
 Calculo del error:
 
 ![image](https://user-images.githubusercontent.com/93835463/149452050-4d487e09-9fc7-4ede-be38-86773afcf5fa.png)
