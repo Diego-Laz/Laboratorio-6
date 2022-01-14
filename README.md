@@ -124,9 +124,26 @@ R10:
 
 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR:
 
+![image](https://user-images.githubusercontent.com/93835463/149449756-595e6dbc-47ba-46c8-b9e3-79e4316aca97.png)
+![image](https://user-images.githubusercontent.com/93835463/149449768-b13302b3-09a4-4618-a1e9-8a363b417c10.png)
+![image](https://user-images.githubusercontent.com/93835463/149450783-4a7c5546-e49d-4455-ba4e-304496840c6f.png)
+![image](https://user-images.githubusercontent.com/93835463/149449776-85318e7e-fce9-4baa-a9c3-676c28178252.png)
+![image](https://user-images.githubusercontent.com/93835463/149449786-40c64f6a-9664-47c2-be8c-470e65278c44.png)
+![image](https://user-images.githubusercontent.com/93835463/149449797-69f98658-42c3-4cd0-81aa-eb6d38e0e06d.png)
+
+Calculo del error:
+
+![image](https://user-images.githubusercontent.com/93835463/149452050-4d487e09-9fc7-4ede-be38-86773afcf5fa.png)
+
 VIDEOS:
 
+https://www.youtube.com/watch?v=aNRG1gAO4wk
+
 CONCLUSIONES:
+
+-En este laboratorio pusimos a prueba lo aprendido para asi hacer uso del wattmetro y estudiar el teorema de la maxima transferencia de potencia.
+
+-El calculo hecho durante los estudios del tema nos da un error un tanto elevado debido a variaciones dadas por el uso de diferentes simuladores, dado que estos arrojan valores diferentes
 
 BIBLIOGRAFÍA:
 
