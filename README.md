@@ -139,6 +139,14 @@ VIDEOS:
 
 https://www.youtube.com/watch?v=aNRG1gAO4wk
 
+https://www.youtube.com/watch?v=IB7oW84VUcI
+
+https://www.youtube.com/watch?v=RWC-o2KgeR0
+
+Respuesta a interrogantes:
+
+![image](https://user-images.githubusercontent.com/93835463/149453419-7f755a44-ba39-41c1-acf9-8a34ced44327.png)
+
 CONCLUSIONES:
 
 -En este laboratorio pusimos a prueba lo aprendido para asi hacer uso del wattmetro y estudiar el teorema de la maxima transferencia de potencia.
